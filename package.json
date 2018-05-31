@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-prefer-early-return",
+  "name": "@regru/eslint-plugin-prefer-early-return",
   "version": "1.0.0",
   "description": "Copy-paste from `eslint-plugin-shopify` from shopify team without unwanted dependensies and restrictions",
   "main": "index.js",
