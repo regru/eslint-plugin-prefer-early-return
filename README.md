@@ -13,7 +13,7 @@ npm install @regru/eslint-plugin-prefer-early-return --save-dev
     …
   ],
   "rules": {
-    "prefer-early-return": ["error", {
+    "@regru/prefer-early-return/prefer-early-return": ["error", {
       "maximumStatements": 1
     }],
     …
